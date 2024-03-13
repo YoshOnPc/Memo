@@ -9,3 +9,7 @@
 
 ## Git
 - https://www.slideshare.net/matsukaz/git-28304397
+
+## Web開発全般（Basic）
+- https://developer.mozilla.org/ja/docs/Learn
+- https://developer.mozilla.org/en-US/curriculum/
